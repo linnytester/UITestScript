@@ -1,0 +1,14 @@
+Appium-Python-Client==0.28
+behave
+pandas
+configparser
+requests
+selenium
+allure-behave
+demjson
+PyMySQL
+mysqlclient
+html5lib
+bs4
+pymssql
+paramiko
